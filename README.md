@@ -1,4 +1,4 @@
-# arch-custom
+# arch-custom-fork
 Custom Simplified Arch Linux Build
 
 ### About  :cactus:
