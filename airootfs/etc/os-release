@@ -1,5 +1,10 @@
-NAME="Custom Arch Linux"
-ID=arch
-PRETTY_NAME="CinnamonARCH"
-ANSI_COLOR="0;32"
-HOME_URL="https://github.com/damoklov/arch-custom"
+NAME="BlueByteLinux"
+PRETTY_NAME="BlueByteLinux"
+ID=bluebytelinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="1;34"
+HOME_URL="https://github.com/blueosport/arch-custom-fork"
+LOGO=BlueByteLinux
+
+# Add ASCII if needed
