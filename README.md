@@ -27,12 +27,7 @@ If you want to modify this build, you are free to do so (on your Arch Linux mach
 3. Run build: `./arch-custom/build.sh -v`.
 4. Image will be in __out/__ directory.
 
-### Logout workaround   :cactus:
-If you do want to enable locking screen at logout, type following commands:
-```
-DISPLAY=:0 gsettings set org.cinnamon.desktop.screensaver lock-enabled true
-DISPLAY=:0 gsettings set org.cinnamon.desktop.lockdown disable-lock-screen false
-```
+
 These features may not be enabled after clean installation due to an unknown error.
 
 -Edit: Im planning to integrate Xlibre into it.
