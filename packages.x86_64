@@ -1,8 +1,17 @@
-# xorg
-xorg-server
+# xlibre , hope these exist
+xlibre-xserver
+xlibre-input-libinput
+xlibre-video-amdgpu
+xlibre-video-intel
+xlibre-video-nvidia
 xorg-xinit
 xorg-twm
 xterm
+
+# extras
+xlibre-xserver-common
+xlibre-input-libinput
+xlibre-video-vesa
 
 # fonts
 ttf-dejavu
@@ -39,8 +48,13 @@ adapta-gtk-theme
 faenza-icon-theme
 
 # desktop
-cinnamon
-lxdm
+i3-wm
+dmenu
+i3status
+alacritty
+lightdm
+lightdm-gtk-greeter
+
 
 # additional software
 lxterminal
@@ -50,7 +64,7 @@ xdg-user-dirs
 bash-completion
 conky
 file-roller
-firefox
+chromium
 gparted
 git
 reflector
