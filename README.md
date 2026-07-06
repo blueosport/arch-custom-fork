@@ -2,7 +2,7 @@
 Custom Simplified Arch Linux Build
 
 ### About  :cactus:
-Code apdopted from Carl Duff's pacbang-iso git repo and Midfingr's arch_livecd git repo: 
+Code adopted from Carl Duff's pacbang-iso git repo and Midfingr's arch_livecd git repo: 
 - https://github.com/archtrorg/pacbang-iso
 - https://github.com/midfingr/arch_livecd
 
