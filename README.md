@@ -1,4 +1,4 @@
-# arch-custom-fork
+# arch-custom-fork for BlueByte
 Custom Simplified Arch Linux Build
 
 ### About  :cactus:
