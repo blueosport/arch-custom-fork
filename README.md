@@ -11,6 +11,12 @@ Special thanks to [__Dan__ (_midfinrg_)](https://github.com/midfingr) and his [Y
 May your soul rest in peace.\
 Your work will never be forgotten.
 :heart:
+### What Im trying to do
+- Integrate XLibre to it.
+ Keys used while making this ISO with XLibre from my side:-
+sudo pacman-key --recv-keys 73580DE2EDDFA6D6
+sudo pacman-key --finger 73580DE2EDDFA6D6
+sudo pacman-key --lsign-key 73580DE2EDDFA6D6
 
 Background images were taken from __'Everlasting Summer'__ game.\
 All rights belong to their respectful owners at [_Soviet Games_](https://sovietgames.su/).\
