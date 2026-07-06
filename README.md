@@ -6,6 +6,8 @@ Code adopted from Carl Duff's pacbang-iso git repo and Midfingr's arch_livecd gi
 - https://github.com/archtrorg/pacbang-iso
 - https://github.com/midfingr/arch_livecd
 
+### Planning to Integrate XLibre into it
+
 ### Credits   :cactus:
 Special thanks to [__Dan__ (_midfinrg_)](https://github.com/midfingr) and his [YouTube channel](https://www.youtube.com/user/midfingr).\
 May your soul rest in peace.\
