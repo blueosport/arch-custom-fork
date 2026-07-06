@@ -1,1 +1,1 @@
-... (no major change, but ensure it calls customize)
+Updated iso_name=BlueByteLinux, iso_label=BLUEBYTE
