@@ -35,6 +35,8 @@ DISPLAY=:0 gsettings set org.cinnamon.desktop.lockdown disable-lock-screen false
 ```
 These features may not be enabled after clean installation due to an unknown error.
 
+-Edit: Im planning to integrate Xlibre into it.
+
 ### Contributing   :cactus:
 Main features that I need help with are:
 * Enable screen locking after manual logout (as it is with locking after suspension)
