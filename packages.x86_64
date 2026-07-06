@@ -1,134 +1,36 @@
-# xlibre , hope these exist
-xlibre-xserver
-xlibre-input-libinput
-xlibre-video-amdgpu
-xlibre-video-intel
-xlibre-video-nvidia
-xorg-xinit
-xorg-twm
-xterm
+# Base System
+base
+linux-lts
+linux-firmware
+grub
+efibootmgr
+networkmanager
+nano
+sudo
+bash-completion
 
-# extras
+# XLibre Server (Replaces xorg-server)
+xlibre-xserver
 xlibre-xserver-common
 xlibre-input-libinput
-xlibre-video-vesa
+xlibre-video-vesa       # Fallback driver
+xlibre-video-intel
+xlibre-video-amdgpu
+xlibre-video-nouveau
 
-# fonts
-ttf-dejavu
+# Display Manager
+lightdm
+lightdm-gtk-greeter
 
-# audio
-alsa-utils
-strawberry
-
-# mail
-thunderbird
-
-# office
-libreoffice-fresh
-
-# IRC
-irssi
-
-# video
-vlc
-flashplugin
-
-# smartphone
-kdeconnect
-
-# images
-shotwell
-
-# vbox
-virtualbox-guest-utils
-virtualbox-guest-dkms
-
-# themes
-adapta-gtk-theme
-faenza-icon-theme
-
-# desktop
+# i3 (Tiling)
 i3-wm
 dmenu
 i3status
 alacritty
-lightdm
-lightdm-gtk-greeter
 
-
-# additional software
-lxterminal
-transmission-gtk
-leafpad
-xdg-user-dirs
-bash-completion
-conky
-file-roller
-chromium
-gparted
-git
-reflector
-gnome-calculator
-base-devel
-whois
-gnupg
-
-# java (archlinux-java to switch version)
-jre8-openjdk-headless
-jre12-openjdk-headless
-
-# arch iso
-arch-install-scripts
-b43-fwcutter
-broadcom-wl
-btrfs-progs
-ddrescue
-dhclient
-dialog
-dnsmasq
-dosfstools
-ethtool
-exfat-utils
-f2fs-tools
-fsarchiver
-gnu-netcat
-gpm
-gptfdisk
-grub
-os-prober
-hdparm
-ipw2100-fw
-ipw2200-fw
-lftp
-linux-atm
-lsscsi
-mtools
-ndisc6
-nfs-utils
-nilfs-utils
-ntfs-3g
-ntp
-openconnect
-openssh
-openvpn
-partclone
-parted
-partimage
-ppp
-pptpclient
-refind-efi
-rp-pppoe
-rsync
-sdparm
-sg3_utils
-smartmontools
-sudo
-tcpdump
-testdisk
-usb_modeswitch
-wget
-wireless-regdb
-wireless_tools
-wpa_supplicant
-wvdial
-xl2tpd
+# Utilities
+xorg-xinit
+xorg-xrandr
+xorg-xset
+xorg-xdpyinfo
+archiso   
